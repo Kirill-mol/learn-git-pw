@@ -5,4 +5,3 @@ add features at branch features
 pull with conflits(local repo)
 pull with conflicts
 add first tag
-fix some problems and return to features
