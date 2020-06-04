@@ -1,4 +1,4 @@
 commit to test marge command
 another one feature
-add feature on master
+add feature on master // it is bad to add feature at once
 add features at branch features
